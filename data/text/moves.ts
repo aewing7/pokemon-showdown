@@ -154,7 +154,7 @@ export const MovesText: {[k: string]: MoveText} = {
 	},
 	aquatail: {
 		name: "Aqua Tail",
-		shortDesc: "No additional effect.",
+		shortDesc: "fuckin hell",
 	},
 	armthrust: {
 		name: "Arm Thrust",

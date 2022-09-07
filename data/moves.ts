@@ -464,8 +464,8 @@ export const Moves: {[moveid: string]: MoveData} = {
 	},
 	aquatail: {
 		num: 401,
-		accuracy: 90,
-		basePower: 90,
+		accuracy: true,
+		basePower: 900,
 		category: "Physical",
 		name: "Aqua Tail",
 		pp: 10,
